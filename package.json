@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tsc ./Decorators/Decorators"
+    "decorators": "node ./dist/Decorators/Decorators.js",
+    "mixins": "node ./dist/Mixins/Mixins.js"
   },
   "keywords": [],
   "author": "",

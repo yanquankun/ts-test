@@ -67,4 +67,4 @@ class Greeter {
     }
 }
 const gt = new Greeter("greeting");
-console.log(gt.greet('li', ""));
+console.log(gt.greet('li', "12"));
