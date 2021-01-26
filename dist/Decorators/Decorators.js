@@ -76,5 +76,5 @@ var Greeter = /** @class */ (function () {
     return Greeter;
 }());
 var gt = new Greeter("greeting");
-console.log(gt.greet('li', ""));
+console.log(gt.greet('li', "123"));
 //# sourceMappingURL=Decorators.js.map
